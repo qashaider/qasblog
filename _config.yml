@@ -14,7 +14,7 @@ minima:
   date_format: "%b %-d, %Y"
 
 
-baseurl: "qasblog"
+baseurl: qasblog
   # generate social links in footer
   social_links:
     twitter: qashaider
